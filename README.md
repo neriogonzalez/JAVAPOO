@@ -1,2 +1,2 @@
 # JAVAPOO
-This is a little prject for Java POO
+This is a little project for Java POO
